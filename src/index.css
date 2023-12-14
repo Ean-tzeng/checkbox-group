@@ -1,0 +1,17 @@
+.columns {
+  text-align: center;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+button {
+  background: transparent;
+  padding: 5px 10px;
+  border: 1px solid;
+  margin: 0 5px;
+}
+
+input[type=text] {
+  padding: 5px;
+}
